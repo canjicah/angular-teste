@@ -1,0 +1,11 @@
+/* Structure */
+table {
+  width: 100%;
+}
+.mat-header-cell {
+  background-color: #4b3369;
+  color: white;
+}
+.icon {
+  height: 5px;
+}
